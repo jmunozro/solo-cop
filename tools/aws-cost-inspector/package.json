@@ -1,0 +1,17 @@
+{
+  "name": "aws-cost-lambda",
+  "version": "1.0.0",
+  "description": "Checks aws things",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm outdated",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "jesus.munoz@solo.io",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1031.0",
+    "https": "^1.0.0"
+  }
+}
